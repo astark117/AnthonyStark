@@ -5,7 +5,7 @@
   + I have a background in biochemistry and physics education and began my transition into data in October 2022.
   + I love to surf, travel, bbq, and explore data!
 
-# Find me at [LinkedIn](https://www.linkedin.com/in/amstark22/)
+Find me at [LinkedIn](https://www.linkedin.com/in/amstark22/)
 
 # **Skills:**
 + Microsoft Excel
