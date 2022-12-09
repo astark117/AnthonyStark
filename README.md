@@ -3,7 +3,7 @@
 # **About Me:**
   + I am currently enrolled in a six month intensive bootcamp to develop core data analytics skills.
   + I have a background in biochemistry and physics education and began my transition into data in October 2022.
-  + I love to surf, travel, bbq, and explore data!
+  + San Diego based - I love to surf, travel, bbq, and explore data!
 
 Find me at [LinkedIn](https://www.linkedin.com/in/amstark22/)
 
