@@ -1,5 +1,3 @@
-## AnthonyStark
-
 # **About Me:**
   + I am currently enrolled in a six month intensive bootcamp to develop core data analytics skills.
   + I have a background in biochemistry and physics education and began my transition into data in October 2022.
