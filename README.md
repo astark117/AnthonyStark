@@ -16,7 +16,7 @@ Find me at [LinkedIn](https://www.linkedin.com/in/amstark22/)
 - [American Energy Market Regulator Outage Analysis](https://github.com/astark117/AEMR-Project/blob/main/AEMR%20SQL%20Queries.txt)
 
 # **Python Projects**
-- [NYC Airbnb Exploration](https://github.com/astark117/Airbnb_CaseStudy/blob/main/Airbnb_Exercise_AnthonyStark-Copy1.ipynb)
+- Flight Data Analysis 1997-2007 coming soon
 
 # **Projects on Tableau**
 - [Wine Group Investment Strategy 2022](https://public.tableau.com/app/profile/anthony.stark3004/viz/AWGInvestmentStrategy-Capstone1/ExecutivePresentation)
