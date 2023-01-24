@@ -13,7 +13,7 @@ Find me at [LinkedIn](https://www.linkedin.com/in/amstark22/)
 + Python (pandas, numpy, matplotlib, seaborn, statsmodels)
 
 # **SQL Projects**
-- [American Energy Market Regulator Outage Analysis](https://github.com/astark117/AEMR-Project/blob/main/AEMR%20SQL%20Queries.txt)
+- [American Energy Market Regulator Outage Analysis](https://github.com/astark117/AEMR-Project))
 
 # **Python Projects**
 - Flight Data Analysis 1997-2007 coming soon
