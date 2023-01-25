@@ -19,7 +19,7 @@ Find me at [LinkedIn](https://www.linkedin.com/in/amstark22/)
 - San Diego International Flight Delay and Cancellation Analysis 1997-2007 coming soon
 
 # **Projects on Tableau**
-- [Wine Group Investment Strategy 2022](https://public.tableau.com/app/profile/anthony.stark3004/viz/AWGInvestmentStrategy-Capstone1/ExecutivePresentation)
+- [Wine Group Investment Strategy 2022]((https://public.tableau.com/app/profile/anthony.stark3004/viz/AWGInvestmentStrategy-Capstone1/ExecutivePresentation))
 - [American Energy Market Regulator Outage Analysis](https://public.tableau.com/app/profile/anthony.stark3004/viz/AEMRCaseStudy_16694175595350/AEMRExecutiveSummary)
 - [ChemCorp Customer Growth and Retention Analysis](https://public.tableau.com/app/profile/anthony.stark3004/viz/ChemCorpCaseStudy_16672422049150/ExecutivePresentation)
 
