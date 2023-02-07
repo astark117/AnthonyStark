@@ -16,7 +16,7 @@ Find me at [LinkedIn](https://www.linkedin.com/in/amstark22/)
 - [American Energy Market Regulator Outage Analysis](https://github.com/astark117/AEMR-Project)
 
 # **Python Projects**
-- [San Diego International Flight Delay and Cancellation Analysis 1997-2007](https://github.com/astark117/SAN-ORD-Flights-Analysis-1997-2007)
+- [San Diego International to Chicago O'Hare Flight Delay and Cancellation Analysis 1997-2007](https://github.com/astark117/SAN-ORD-Flights-Analysis-1997-2007)
 
 # **Projects on Tableau**
 - [Wine Group Investment Strategy 2022](https://public.tableau.com/app/profile/anthony.stark3004/viz/AWGInvestmentStrategy-Capstone1/ExecutivePresentation)
