@@ -14,6 +14,7 @@ Find me at [LinkedIn](https://www.linkedin.com/in/amstark22/)
 
 # **SQL Projects**
 - [American Energy Market Regulator Outage Analysis](https://github.com/astark117/AEMR-Project)
+- [Maven Telecom Customer Churn Dashboard](https://github.com/astark117/Maven-Telecom-Churn-Dashboard)
 
 # **Python Projects**
 - [San Diego International to Chicago O'Hare Flight Delay and Cancellation Analysis 1997-2007](https://github.com/astark117/SAN-ORD-Flights-Analysis-1997-2007)
