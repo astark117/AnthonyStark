@@ -1,25 +1,13 @@
 # **About Me:**
-  + I am currently enrolled in a six month intensive bootcamp to develop core data analytics skills.
-  + I have a background in biochemistry and physics education and began my transition into data in October 2022.
-  + San Diego based - I love to surf, travel, bbq, and explore data!
+  + I am currently working on my bachelor's in computer science through Oregon State University.
+  + My frist degree was in biochemistry and I currently teach for a healthcare career college.
+  + San Diego based - I love to surf, travel, bbq, and learn new skills!
 
 Find me at [LinkedIn](https://www.linkedin.com/in/amstark22/)
 
 # **Skills:**
 + Microsoft Excel
-+ Microsoft Power BI
-+ Tableau
++ Python
++ C
 + SQL
-+ Python (pandas, numpy, matplotlib, seaborn, statsmodels)
-
-# **SQL/Tableau Projects**
-- [American Energy Market Regulator Outage Analysis](https://github.com/astark117/AEMR-Project)
-- [Maven Telecom Customer Churn Dashboard](https://github.com/astark117/Maven-Telecom-Churn-Dashboard)
-
-# **Python/Tableau Projects**
-- [San Diego International to Chicago O'Hare Flight Delay and Cancellation Analysis 1997-2007](https://github.com/astark117/SAN-ORD-Flights-Analysis-1997-2007)
-
-# **Excel/Tableau Projects**
-- [Wine Group Investment Strategy 2022](https://public.tableau.com/app/profile/anthony.stark3004/viz/AWGInvestmentStrategy-Capstone1/ExecutivePresentation)
-- [ChemCorp Customer Growth and Retention Analysis](https://public.tableau.com/app/profile/anthony.stark3004/viz/ChemCorpCaseStudy_16672422049150/ExecutivePresentation)
 
