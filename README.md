@@ -7,7 +7,6 @@
 
 
 # **Skills:**
-+ Microsoft Excel
 + Python
 + C++
 + x86 Assembly (MASM)
