@@ -8,7 +8,7 @@
 
 # **Skills:**
 + Python
-+ C++
++ C
 + x86 Assembly (MASM)
 + SQL
 
