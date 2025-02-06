@@ -6,9 +6,15 @@
 
 
 
-# **Skills:**
+# **Languages:**
 + Python
 + C
 + x86 Assembly (MASM)
 + SQL
++ JavaScript
 
+# **Skills:**
++ Analysis of algorithms
++ Proficiency with data structures
++ Web development
++ Data analysis and visualization
