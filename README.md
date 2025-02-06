@@ -16,5 +16,5 @@
 # **Skills:**
 + Analysis of algorithms
 + Proficiency with data structures
-+ Web development
++ Web development (MERN)
 + Data analysis and visualization
